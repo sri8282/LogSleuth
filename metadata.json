@@ -1,6 +1,0 @@
-{
-  "name": "LogSleuth AI — Intelligent Log Analysis",
-  "description": "Professional Linux & application log analysis, incident investigation, and evidence-based root cause reporting.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
